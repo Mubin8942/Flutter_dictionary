@@ -1,4 +1,4 @@
-# flutterDictionary
+# FlutterDictionary
 
 A new Flutter application.
 
